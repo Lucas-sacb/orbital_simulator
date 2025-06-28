@@ -6,9 +6,6 @@
 
 A highly-extensible N-body gravitational simulator written in Python. It uses the Runge-Kutta 4th order (RK4) method to accurately calculate and visualize the trajectories of celestial bodies in 2D or 3D.
 
-![Simulation Demo](https://i.imgur.com/8a5x3xG.png)
-*(Example of the 3D Earth-Satellite system simulation)*
-
 ---
 
 ## Table of Contents
