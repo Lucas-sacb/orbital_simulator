@@ -52,8 +52,8 @@ You need Python 3 and `pip` installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/Lucas-sacb/orbital_simulator.git](https://github.com/Lucas-sacb/orbital_simulator.git)
+    cd orbital_simulator
     ```
 
 2.  **Create a virtual environment (recommended):**
